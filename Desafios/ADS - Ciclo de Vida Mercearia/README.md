@@ -9,3 +9,4 @@
 ### Se o projeto for entregue no prazo previsto, ele é dado como entregue, e encerra seu ciclo de vida. Se o projeto for entregue com atraso, ele é dado como entregue com atraso, e também encerra seu ciclo de vida.
 
 ## RESOLUÇÃO DESAFIO: Ciclo de vida Mercearia
+![image](https://github.com/Tleofreitas/Mod6_AnaliseDeSistemas/assets/88738577/14c1a03c-f324-4566-81bd-03899d85671b)
